@@ -8,8 +8,8 @@ let lastLogin = '2021-02-08 22:52:41'
 let userInfo = {
     login: usuario,
     password: senha,
-    name,
-    lastLogin // Propriedade abreviada (name : name)
+    name,  // Propriedade abreviada (name : name)
+    lastLogin
 }
 
 console.log(userInfo)
